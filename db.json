@@ -1,0 +1,27 @@
+{
+    "users": [
+      {
+        "name": "Anshu Verma",
+        "email": "anshuverma555.av@gmail.com",
+        "password": "12345",
+        "mobile": "7668319902",
+        "id": 1
+      },
+      {
+        "name": "Dhanish",
+        "email": "dhanish@gmail.com",
+        "password": "12345",
+        "mobile": "654567892",
+        "id": 2
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "prod_name": "Maggie",
+        "price": "14.00",
+        "qty": "100",
+        "description": "Maggie in 2 minutes"
+      }
+    ]
+  }
